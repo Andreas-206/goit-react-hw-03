@@ -1,4 +1,3 @@
-import css from "./Contact.module.css"
 
 const Contact = ({ contact, onDelete }) => {
 	return (
